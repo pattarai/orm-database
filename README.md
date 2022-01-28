@@ -1,13 +1,13 @@
-# {project title} ✨
+# ORM Database ✨
 
 ### Description
-{mini project description goes here...}
+To use an ORM to perform CRUD operations on a database. 
 
 *You are welcome to contribute to this repo. See the [**CONTRIBUTING.md**](./CONTRIBUTING.md) for more info*
 
 ### Contributers
-<a href="https://github.com/pattarai/mini-project-template/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pattarai/mini-project-template" />
+<a href="https://github.com/pattarai/orm-database/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=pattarai/orm-database" />
 </a>
 
 
